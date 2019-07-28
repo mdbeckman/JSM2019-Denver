@@ -1,0 +1,45 @@
+---
+title: "JSM 2019 Abstract"
+output: html_notebook
+---
+
+*Capstone assessment tools for the undergraduate statistics major*
+
+Abstract (# 306955): 
+
+This work introduces new assessment tools to measure learning outcomes of students in undergraduate statistics programs (e.g. majors) against the competencies recommended in the (2014) ASA Guidelines for Undergraduate Programs in Statistical Sciences.  In short, these assessment tools seek to (1) measure student learning outcomes with respect to program objectives; (2) discover whether students are gaining additional relevant competencies not explicitly included in the program/major through extracurricular experiences; (3) facilitate comparisons across years and institutions to benefit continuous improvement of the program/major.  This paper presents results after piloting with Senior/Capstone undergraduate statistics students shortly before graduation at four different institutions around the US.  
+
+
+
+
+
+
+- Assessment tool aligned to 2014 ASA Guidelines
+- pilot (test) data from 4 institutions 
+- survey data for students to self-report
+- intended use
+    - benchmarking student skills and competancies against ASA Guidelines
+    - identifying general areas of need prior to graduation
+    - program evaluation: are students learning what we think we're teaching them
+    - LOA for program evaluation
+
+
+
+
+
+Develop an assessment strategy to measure learning outcomes of students in undergraduate statistics programs (e.g. majors) against the competencies recommended in the ASA Guidelines for Undergraduate Programs in Statistical Sciences.
+
+
+### Subgoals
+
+- Measure how well students have learned what we think we're teaching them
+- Discover whether students are learning things we aren't explicitly teaching them
+- Facilitate comparisons (e.g. year to year)
+
+
+### Project Constraints
+
+- Alignment to ASA Curriculum Guidelines
+- Comprehensive in scope
+- Useful across institutions 
+

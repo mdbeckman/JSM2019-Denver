@@ -124,7 +124,9 @@ library(kableExtra)
 [^3]: delMas, R., Garfield, J., Ooms, A., Chance, B. (2007). Assessing students' conceptual understanding after a first course in statistics.  *Statistics Education Research Journal, 6*. p. 28-58.
 
 
-# CUSP Test Excerpt (partial item)
+# CUSP Test 
+
+### Excerpt (partial item)
 
 ![](cuspTest.png){ width=80% }
 

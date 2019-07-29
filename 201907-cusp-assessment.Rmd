@@ -216,7 +216,10 @@ library(kableExtra)
     - Christian Schmid
     - Daisy Philtron
 
-# LAST SLIDE PLACEHOLDER
+# Thank you
+
+
+![](final_slide.png){ width=95% }
 
 
 

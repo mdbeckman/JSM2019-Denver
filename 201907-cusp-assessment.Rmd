@@ -38,25 +38,20 @@ library(kableExtra)
 *Funding--Penn State Center of Excellence in Science Education (Tombros Fellowship Program)*
 
 
-# Assessment Goal  
+# Assessment Outline  
 
-**Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)**
-
-- snapshot of student learning outcomes;
-- facilitate cohort comparisons for program evaluation; 
-- probe competencies exposed through extracurricular or peripheral experiences;
-
-<!-- - 2014 ASA Guidelines for Undergraduate Programs in Statistical Science [^1] -->
-<!--     - *"Further work is needed to identify appropriate learning outcomes and assessment strategies for statistics programs"* (p. 6) -->
-<!--     - direct assessments (e.g., tests & projects) -->
-<!--     - indirect assessments (e.g., surveys & focus groups) -->
-
-### Constraints
-
-- Align to (2014) ASA Curriculum Guidelines[^1]
-- Comprehensive scope
-- Easy to implement across institutions & years 
-
+- **Goal:** Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)
+    - snapshot of student learning outcomes;
+    - facilitate cohort comparisons for program evaluation; 
+    - probe competencies exposed through extracurricular or peripheral experiences;
+- Constraints
+    - Align to (2014) ASA Curriculum Guidelines[^1]
+    - Comprehensive scope
+    - Easy to implement across institutions & years 
+- Outcomes
+    - two assessment tools
+    - multi-year pilot
+    - good instrument reliability & strong item metrics
 
 [^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
 
@@ -170,7 +165,7 @@ library(kableExtra)
     - descrimination > 0.15 preferred 
     - 0.6 < proportion correct < 0.9
 - Results
-    - Principle components analysis supports unidimensionality
+    - PCA evidence supports unidimensionality
     - Cronbach alpha = 0.81
     - 30/33 items with discrimination > 0.15
     - 9/33 items in recommended difficulty range
@@ -181,19 +176,14 @@ library(kableExtra)
 
 # Item discrimination
 
-
-# Poor item discrimination
-
-- One item was quite wordy and perhaps should be rewritten (also very difficult)
-- Another was too difficult (3.6% correct)
-- A third was a CAOS task about confidence interval interpretation
-
-
-# Most discriminating items
-
-- Probability distributions task (discrim = 0.59)
-- Histograms & std deviation task (discrim = 0.50)
-- OLS regression assumptions task (discrim = 0.46)
+- Item discrimination < 0.15
+    - (21% correct) Validity of models aligned to a study design
+    - (3.6% correct) Strategies to maximize likelihood
+    - (40% correct) CAOS task about CI interpretation
+- Best item discrimination
+    - (discrim = 0.59) Probability distributions task 
+    - (discrim = 0.50) Histograms & std deviation task
+    - (discrim = 0.46) OLS regression assumptions task
 
 
 ![](Q20.png){ width=80% }
@@ -232,8 +222,6 @@ library(kableExtra)
 # Student Results (Back)
 
 ![](CUSP_Test_Summary_STUDENT DEMO_back.pdf){ width=80% }
-
-
 
 
 # Scree plot of CUSP test data

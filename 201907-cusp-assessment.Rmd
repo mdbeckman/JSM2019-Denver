@@ -24,7 +24,7 @@ library(kableExtra)
 
 ```
 
-# Contributors 
+# Collaborators 
 
 - Matt Beckman (Penn State)
 - Beth Chance (Cal Poly--San Luis Obispo)
@@ -32,11 +32,10 @@ library(kableExtra)
 - Jennifer Kaplan (Georgia)
 - Kari Lock Morgan (Penn State)
 - Paul Roback (Saint Olaf College)
-- Nick Horton (Amherst College)
-- Allan Rossman (Cal Poly--San Luis Obispo)
 
-*Funding--Penn State Center of Excellence in Science Education (Tombros Fellowship Program)*
+&nbsp;
 
+*Funding: Penn State Center of Excellence in Science Education*
 
 # Assessment Outline  
 
@@ -49,8 +48,8 @@ library(kableExtra)
     - Comprehensive scope
     - Easy to implement across institutions & years 
 - Outcomes
-    - two assessment tools
-    - multi-year pilot
+    - two capstone assessment tools
+    - multi-year pilot data
     - good instrument reliability & strong item metrics
 
 [^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
@@ -63,14 +62,14 @@ library(kableExtra)
 
 # Comprehensive Undergraduate Statistics Program (CUSP) Assessment Strategy
 
-- ASA Guidelines cite 95 competencies aligned to 6 major topics
+- ASA Guidelines cite 95 competencies 
 - Single assessment tool unlikely to match breadth & depth
 
 
-| # Competencies | Topic area | 
-|:--------------:|:----------:|
+| # Competencies | ASA Guidelines Topic | 
+|:--------------:|:-----------|
 | 37 |  Statistical Methods & Theory |
-| 16 |  Data Wrangling & Computing / Data Science |
+| 16 |  Data Wrangling, Computing, & Data Science |
 | 11 |  Mathematical Foundations |
 | 18 |  Statistical Practice |
 | 9  | Problem Solving |
@@ -84,6 +83,7 @@ library(kableExtra)
     - multiple institutions w. single cohort
     - single institution w. multiple cohorts
 - Indirect assessment
+    - inventory of all 95 competancies cited in ASA Guidelines  
     - survey data self-reported by students
     - approx. 10-15 minutes duration
     - several cohorts from single institution 
@@ -91,8 +91,6 @@ library(kableExtra)
 
 # CUSP Survey 
 
-- Inventory of 95 competancies cited in the ASA Guidelines  
-- What do **students** feel they know & don't know  
 - **Benefits**
     - Easy implementation
     - Can be administered multiple times if desired  
@@ -110,8 +108,6 @@ library(kableExtra)
 
 # CUSP Test Design
 
-
-<!-- - Selected response assessment tool with broad coverage... "Complete CAOS...?" -->
 - Selected response assessment tool with broad coverage
 - 33 tasks; some with multiple parts
     - 9 testlets  
@@ -141,14 +137,14 @@ library(kableExtra)
     - built-in "CAOS" subtest
     - objective measure of student competancies
         - for individual students
-        - for a class of students
+        - for a cohort of students
         - aggregate useful for program evaluation
     - Easy implementation
 - **Risks/Issues**
+    - Variable use conditions may jeopardize comparisons
     - Scope constrained by test fatigue
     - Includes topics we don't necessarily teach
     - Longer to implement 
-    - Variable use conditions may jeopardize comparisons
 
 <!-- ### Penn State use  -->
 <!--     - benchmarking student skills and competancies against ASA Guidelines -->
@@ -160,7 +156,7 @@ library(kableExtra)
 # Preliminary Item Functioning Analysis
 
 - Benchmarks for item statistics[^4]
-    - Unidimensionality assumed by most current methods in use for assessment evaluation
+    - Unidimensionality assumed by common methods of assessment evaluation
     - Cronbach alpha (reliability)
     - descrimination > 0.15 preferred 
     - 0.6 < proportion correct < 0.9
@@ -203,6 +199,22 @@ library(kableExtra)
 - Experimentation with short/long forms
 - Alternative or additional tools for more complete alignment to ASA Guidelines
 
+
+# Acknowledgments
+
+- Advisory input
+    - Nick Horton
+    - Allan Rossman
+- Pilot testers
+    - Heather Smith
+    - Andrew Schaffner
+    - Nicole Lazar
+    - Lynne Seymour
+    - Paul Roback
+    - Kirsten Eilertson
+    - Dave Hunter
+    - Christian Schmid
+    - Daisy Philtron
 
 # LAST SLIDE PLACEHOLDER
 

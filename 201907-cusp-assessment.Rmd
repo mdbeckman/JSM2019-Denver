@@ -39,18 +39,17 @@ library(kableExtra)
 
 # Assessment Outline  
 
-- **Goal:** Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)
-    - snapshot of student learning outcomes;
-    - facilitate cohort comparisons for program evaluation; 
-    - probe competencies exposed through extracurricular or peripheral experiences;
+- **Goal: Measure learning outcomes of students upon completion of undergraduate statistics program (e.g. major)**
+    - snapshot of student learning outcomes  
+    - facilitate cohort comparisons for program evaluation 
+    - comprehensive scope
 - Constraints
-    - Align to (2014) ASA Curriculum Guidelines[^1]
-    - Comprehensive scope
-    - Easy to implement across institutions & years 
+    - closely aligned to (2014) ASA Curriculum Guidelines[^1]
+    - ease of use across institutions, instructors, years 
 - Outcomes
-    - two capstone assessment tools
-    - multi-year pilot data
-    - good instrument reliability & strong item metrics
+    - two capstone assessment tools (i.e., test & survey)
+    - multi-year pilot
+    - good psychometric quality
 
 [^1]: American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
 
@@ -62,8 +61,8 @@ library(kableExtra)
 
 # Comprehensive Undergraduate Statistics Program (CUSP) Assessment Strategy
 
-- ASA Guidelines cite 95 competencies 
-- Single assessment tool unlikely to match breadth & depth
+- 95 competencies cited in 2014 ASA Guidelines  
+- single assessment tool likely not sufficient
 
 
 | # Competencies | ASA Guidelines Topic | 
@@ -75,14 +74,14 @@ library(kableExtra)
 | 9  | Problem Solving |
 | 4  | Discipline-Specific Knowledge |
 
-# Comprehensive Undergraduate Statistics Program (CUSP) Assessment
+# Comprehensive Undergraduate Statistics Program (CUSP) Assessments
 
-- Direct assessment
+- Direct assessment--CUSP Test
     - selected response test
     - approx. 1 hour duration
     - multiple institutions w. single cohort
     - single institution w. multiple cohorts
-- Indirect assessment
+- Indirect assessment--CUSP Survey
     - inventory of all 95 competancies cited in ASA Guidelines  
     - survey data self-reported by students
     - approx. 10-15 minutes duration
